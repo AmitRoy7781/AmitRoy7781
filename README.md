@@ -4,5 +4,5 @@
 
 🧐 My research interests lie in deep learning on graphs and currently working on Graph Anomaly Detection (GAD).
 
-🌟 Please feel free to contact me through this email: roy206@purdue.edu. Further information about me is listed on my [webpage](https://amitroy7781.github.io/). 
+🌟 Please feel free to contact me through this email: roy206@purdue.edu. Further information is listed on my [webpage](https://amitroy7781.github.io/). 
 
