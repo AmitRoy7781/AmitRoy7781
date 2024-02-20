@@ -4,7 +4,7 @@
 
 I am a graduate student at [Purdue Computer Science](https://www.cs.purdue.edu/). 
 
-Fortunately, I got the opportunity to work with [Prof. Pan Li](https://www.cs.purdue.edu/people/faculty/panli.html) on the Graph Anomaly Detection problem.
+Fortunately, I got the opportunity to work with [Prof. Pan Li](https://sites.google.com/view/panli-purdue/home) on the Graph Anomaly Detection problem.
 
 🧐 My research interests lie in deep learning for real-life applications and recently published works on Graph Anomaly Detection (GAD) problem.
 
