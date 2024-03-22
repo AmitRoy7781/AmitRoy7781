@@ -8,5 +8,5 @@
 
 ⭐ Fortunately, I got the opportunity to work with [Prof. Pan Li](https://sites.google.com/view/panli-purdue/home) on the Graph Anomaly Detection problem funded by Sony, Belgium.
 
-🌟 Please feel free to contact me through email [📧](mailto:roy206@purdue.edu). Further information is listed on my [portfolio](https://amitroy7781.github.io/). 
+💻 Please feel free to contact me through email [✉️](mailto:roy206@purdue.edu). Further information is listed on my [portfolio](https://amitroy7781.github.io/). 
 
