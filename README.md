@@ -6,7 +6,7 @@
 
 🧐 My research interests lie in deep learning for real-life applications involving GNN and LLM.
 
-⭐ Fortunately, I got the opportunity to work with [Prof. Pan Li](https://sites.google.com/view/panli-purdue/home) on the Graph Anomaly Detection problem
+⭐ Until 2023, I worked with [Prof. Pan Li](https://sites.google.com/view/panli-purdue/home) on the Graph Anomaly Detection problem
 
 on a funded project by Sony, Belgium.
 
