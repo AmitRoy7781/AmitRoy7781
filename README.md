@@ -2,7 +2,9 @@
 # Hi 👋! 
 🌱 I am Amit Roy, living in Lafayette, Indiana, USA from Bangladesh. 
 
-👨‍🎓 I am a graduate student at [Purdue Computer Science](https://www.cs.purdue.edu/) from the Fall of 2022 to Present. 
+👨‍🎓 I am a graduate student at [Purdue Computer Science](https://www.cs.purdue.edu/) from the Fall of 2022 to Present.
+
+I completed my undergraduate studies at the Department of Computer Science and Engineering, University of Dhaka.
 
 🧐 My research interests lie in deep learning for real-life applications involving GNN and LLM.
 
