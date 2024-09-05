@@ -1,12 +1,15 @@
+# Hi 👋!
 
-# Hi 👋! 
-🌱 I am Amit Roy, living in Lafayette, Indiana, USA from a beautiful country of South-East Asia named Bangladesh. 
+🌱 I am Amit Roy, living in Lafayette, Indiana, USA from Bangladesh.
 
-👨‍🎓 I am a graduate student at [Purdue Computer Science](https://www.cs.purdue.edu/) from the Fall of 2022 to Present.
+👨‍🎓 I am a graduate student at [Purdue Computer Science](https://www.cs.purdue.edu/) from the Fall 2022 to Present.
 
-📚 I completed my undergraduate studies at the Department of Computer Science and Engineering, University of Dhaka.
+🧐 My research focus is real-life applications with deep learning models e.g. LLMs and GNNs. 
 
-🧐 My research interests lie in deep learning for real-life applications involving GNN and LLM.
+🎓 In May 2024, I fulfilled the MS degree requirement from Purdue Computer Science.
 
-💻 Please feel free to contact me through email [✉️](mailto:roy206@purdue.edu). Further information is listed on my [portfolio](https://amitroy7781.github.io/). 
+📚 In 2020, I completed my undergrad studies at the Department of Computer Science and Engineering, University of Dhaka, Bangladesh.
 
+💻 Please feel free to contact me through email [✉️](mailto:roy206@purdue.edu).
+
+🌎 Further information is listed on my [portfolio](https://amitroy7781.github.io/).
