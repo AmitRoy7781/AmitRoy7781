@@ -8,7 +8,7 @@
 
 🎓 In May 2024, I fulfilled the MS degree requirement from Purdue Computer Science.
 
-📚 In August 2020, I completed my undergrad studies at the Department of CSE, University of Dhaka, Bangladesh.
+📚 In August 2020, I finished undergrad at Department of CSE, University of Dhaka, Bangladesh securing the 1st position.
 
 💻 Feel free to contact me through email [✉️](mailto:roy206@purdue.edu).
 
