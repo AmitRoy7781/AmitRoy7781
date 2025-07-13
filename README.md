@@ -1,6 +1,6 @@
 # Hi 👋!
 
-🌱 I am Amit Roy, originally from,Bangladesh, living in Lafayette, Indiana, USA.
+🌱 I am Amit Roy.
 
 👨‍🎓 I am a PhD student at [Purdue Computer Science](https://www.cs.purdue.edu/) from the Fall 2022 to Present.
 
