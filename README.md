@@ -4,7 +4,7 @@
 
 👨‍🎓 I am a PhD student at [Purdue Computer Science](https://www.cs.purdue.edu/) from the Fall 2022 to Present.
 
-🧐 My research focus is centered around applications of deep learning involving LLMs and GNNs. 
+🧐 My research focus includes how capable LLMs are over different reasoning tasks and how scaling/post-training approaches impact the reasoning capabilities.
 
 💻 I worked as an Applied Scientist Intern (L5) at Amazon, Bellevue, Washington (SEA 106 - Blueshift) for the summer of 2025
 
