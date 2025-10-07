@@ -6,9 +6,9 @@
 
 🧐 My research focus includes how capable LLMs are over different reasoning tasks and how scaling/post-training approaches impact the reasoning capabilities.
 
-💻 I worked as an Applied Scientist Intern (L5) at Amazon, Bellevue, Washington (SEA 106 - Blueshift) for the summer of 2025
+💻 I worked as an Applied Scientist Intern at Amazon Fintech during the summer of 2025.
 
-🎓 In May 2024, I fulfilled the MS degree requirement from Purdue Computer Science.
+🎓 In May 2025, I obtained an MS degree from Purdue Computer Science.
 
 📚 In August 2020, I completed my undergrad at the Department of CSE, University of Dhaka (**Class Rank 1<sup>st</sup>**).
 
