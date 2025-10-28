@@ -4,7 +4,7 @@
 
 👨‍🎓 I am a PhD student at [Purdue Computer Science](https://www.cs.purdue.edu/) from the Fall 2022 to Present.
 
-🧐 My research focus includes LLM reasoning over graphs and how scaling impacts the reasoning.
+🧐 My research focus includes understanding and improving the reasoning capabilities of LLMs.
 
 💻 I worked as an Applied Scientist Intern at Amazon Fintech during the summer of 2025.
 
