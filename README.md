@@ -8,7 +8,7 @@
 
 💻 I worked as an Applied Scientist Intern at Amazon Fintech during the summer of 2025.
 
-🎓 In May 2025, I obtained an MS degree from Purdue Computer Science.
+🎓 In May 2025, I obtained a Master of Science degree from Purdue Computer Science.
 
 📚 In August 2020, I completed my undergrad at the Department of CSE, University of Dhaka (**Class Rank 1<sup>st</sup>**).
 
