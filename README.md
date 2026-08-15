@@ -6,9 +6,9 @@
 
 🧐 My research focus includes understanding and improving the reasoning capabilities of LLMs.
 
-💻 I worked as an Applied Scientist Intern at Amazon Fintech during the summer of 2025.
+💻 I worked as an Applied Scientist Intern at Amazon Fintech and Amazon Prime Video during the summer of 2025 and 2026.
 
-🎓 In May 2025, I obtained a Master of Science degree from Purdue Computer Science.
+🎓 In May 2025, I obtained a Master of Science degree in Computer Science from Purdue University, West Lafayette,Indiana.
 
 📚 In August 2020, I completed my undergrad at the Department of CSE, University of Dhaka (**Class Rank 1<sup>st</sup>**).
 
